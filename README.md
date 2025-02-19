@@ -4,3 +4,4 @@
 ![image alt](https://github.com/Shipra53/Event_Organizer/blob/654237bfe4218c383fa759f34b0c9327bf2db7ff/service.png)
 ![image alt](https://github.com/Shipra53/Event_Organizer/blob/e347bd81b3730896657a4a1d20764665b4012f4b/about.png)
 ![image alt](https://github.com/Shipra53/Event_Organizer/blob/2cf5f2fc65130608483de35c9d0318186258c45a/gal.png)
+![image alt](https://github.com/Shipra53/Event_Organizer/blob/614b7af1c19dd9ba01161cf413546edb671fda22/price.png)
